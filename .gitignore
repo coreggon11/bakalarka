@@ -1,3 +1,4 @@
 /.metadata/
 .recommenders/index/http___download_eclipse_org_recommenders_models_photon_/write.lock
 .recommenders/caches/identified-project-coordinates.json
+*.class
